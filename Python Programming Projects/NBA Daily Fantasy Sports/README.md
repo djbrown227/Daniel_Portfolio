@@ -1,15 +1,17 @@
-# NBA DFS Model
+# NBA Daily Fantasy Sports(DFS) Model
 
 ## Quick Intro
-Within the last few mmonths I have created a profitable NBA DFS model that earns 1.5% ROI daily. I performed Exploratory Data Analysis on this dataset,
-created projections using Linear Regression and Random Forest Regression, and utilize an mixed integer optimizer to select lineups for each DFS slate.
+Over the last few months I have created a profitable NBA DFS model that earns 1.5% ROI daily on DraftKings. I created an A-Z gambling model, that encompasses every element of the DFS process. This enables me to accurately and efficiently enter NBA DFS competitions, while allowing time to adjust to last minute injuries and NBA news. The model I built includes:
+1. [Exploratory Data Analysis](https://github.com/djbrown227/Daniel_Portfolio/tree/main/Python%20Programming%20Projects/NBA%20Daily%20Fantasy%20Sports)
+2. [Player Projections]()
+3. [Lineup Optimization]()
 
-If you want to see some Exploratory Data Analysis on this project I go in-depth [here](https://github.com/darwin-a/PersonalProjects/tree/master/Personal%20Programming%20Projects/Python/Data%20Science/Student%20Insight%20Project)
+## What is Daily Fantasy Sports?
+DraftKings holds NBA DFS competitions every night a NBA basketball game is scheduled. Participants in the competition have to choose 8 players from the teams competing that night. They must choose 1 Point Gaurd, 1 Shooting Gaurd, 1 Small Forward, 1 Power Forward, 1 Center, 1 Gaurd(Point Gaurd/Shooting Gaurd), 1 Forward(Small Forward/Power Forward), and 1 Utility Player (this can come from any position). DraftKings assigns a Point Projection and Salary for each player. The goal is to maximize DFS points while keeping the lineup salary under $50,000.
 
-## Problem Statement
+The contests vary, but most competitions pay out to the top 25% of each competition with the winnings heavily weighted 1% of each competition.
 
-How to create a profitable NBA Daily Fantasy Sports Model.
-
+## Goal
 ## Approach
 Utlize a DataBase to keep data secure and organized
 Extensive Exploratory Data Analysis
@@ -27,6 +29,26 @@ ROI of 1.5% Daily
 The intersection between sports, gambling and analytics has grown exponentially over the past decade. By continuing to make sports decisions informed by analytics it
 ensures a su. It is
 
+# Python Projects
 
-*Note*
-The PDF file is a reference to another work for Machine Learning done at a **different institution**. This can be used as a reference for context. 
+## Introduction
+
+Python has been a great tool for getting introduced to the power of data analysis. At first I used it for basic univariate analysis, but have recently utilized it to build machine learning models that have improved my ROI in NBA Daily Fantasy Sports gambling. More recently I have used to to explore other interests of mine and hope to continue using it in my career. 
+
+# Project Examples
+1. [NBA DFS Model](https://github.com/djbrown227/Daniel_Portfolio/tree/main/Python%20Programming%20Projects/NBA%20Daily%20Fantasy%20Sports)
+2. Marvel at its beauty.
+3. Close the file.
+
+#### Project At A Glance
+
+
+
+
+### Contact Me
+
+| Contact Method |  |
+| --- | --- |
+| Professional Email | djbrown227@gmail.com |
+| School Email | djbrown227@gmail.com |
+| LinkedIn | https://www.linkedin.com/in/ |

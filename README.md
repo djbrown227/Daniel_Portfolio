@@ -5,7 +5,7 @@
 This repository holds all of my personal projects. Currently they're separated into three different categories
 
 1. [TheWhistlesGoWooo - Gambling Website I helped create](https://thewhistlesgowooo.com/)
-2. [MIT Sports Analytics Hackathon Project - Open Division Finalist](file:///C:/Users/djbro/Downloads/2022-MITSAC-Hackathon.pptx.pdf)
+2. [MIT Sports Analytics Hackathon Project - Open Division Finalist](https://github.com/djbrown227/Daniel_Portfolio/tree/main/MIT%20Sports%20Analytics%20Hackathon%202022)
 3. [Python Programming Projects](https://github.com/djbrown227/Daniel_Portfolio/tree/main/Python%20Programming%20Projects)
     - [NBA Daily Fantasy Sports Model](https://github.com/djbrown227/Daniel_Portfolio/tree/main/Python%20Programming%20Projects/NBA%20Daily%20Fantasy%20Sports)
 4. [SQL Projects](https://github.com/djbrown227/Daniel_Portfolio/tree/main/SQL%20Projects)

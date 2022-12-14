@@ -10,6 +10,7 @@ Python has been a great tool for getting introduced to the power of data analysi
 3. Close the file.
 
 #### Project At A Glance
+https://bayesianops.medium.com/winning-the-mit-sloan-sports-analytics-2022-hackathon-2df76667be73
 
 
 

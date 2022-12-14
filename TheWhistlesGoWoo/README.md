@@ -1,10 +1,10 @@
 # The Whistles Go Wooo Gambling Website
 
 ## Introduction
-The Whistles Go Woo website provides an aid for sports gamblers to utilize the wisdom of the crowd to place more strategic sports bets.
 The Whistles Go Woo website provides an aid for sports gamblers to Harness the Wisdom of the Crowd to Predict Sport Outcomes and get an edge over the sportsbooks.
 
-Although many non-experts contribute the majority of these sports gambling predictions, they may be expected to have low predictive power. However, it has been shown empirically that by aggregating these non-expert opinions, usually by taking the arithmetic mean or the median of the set of estimates, the resulting collective estimate can be highly accurate.
+## Background
+The concept ofAlthough many non-experts contribute the majority of these sports gambling predictions, they may be expected to have low predictive power. However, it has been shown empirically that by aggregating these non-expert opinions, usually by taking the arithmetic mean or the median of the set of estimates, the resulting collective estimate can be highly accurate.
 
 ## Similiar Project
 The Wisdom of the Crowds - James Surowiecki

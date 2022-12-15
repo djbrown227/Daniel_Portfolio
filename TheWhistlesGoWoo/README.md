@@ -1,22 +1,32 @@
 # The Whistles Go Wooo Gambling Website
 
 ## Introduction
-The Whistles Go Woo website provides an aid for sports gamblers to Harness the Wisdom of the Crowd to Predict Sport Outcomes and get an edge over the sportsbooks. Our platform provided 
+The Whistles Go Woo website provides an aid for sports gamblers to Harness the Wisdom of the Crowd to Predict Sport Outcomes and get an edge over the sportsbooks.
 
 ## Background
-The concept of the Wisdom of the Crowd goes back to Francis Galton. In 1906 country fair in Plymouth, 800 people participated in a contest to estimate the weight of a ox. Statistician Francis Galton observed that the median guess, 1207 pounds, was accurate within 1% of the true weight. Current research has shown that this concept can be applied to probabilistic outcomes, specifically sport outcomes.
+The concept of the Wisdom of the Crowd stems from the fact that although many non-experts contribute the majority of these sports gambling predictions, they may be expected to have low predictive power. However, it has been shown empirically that by aggregating these non-expert opinions, usually by taking the arithmetic mean or the median of the set of estimates, the resulting collective estimate can be highly accurate.
 
-The idea stems from the fact that although many non-experts contribute the majority of these sports gambling predictions, they may be expected to have low predictive power. However, it has been shown empirically that by aggregating these non-expert opinions, usually by taking the arithmetic mean or the median of the set of estimates, the resulting collective estimate can be highly accurate.
+The concept dates back statistician Francis Galton. In 1906 country fair in Plymouth, 800 people participated in a contest to estimate the weight of a ox. Statistician Francis Galton observed that the median guess, 1207 pounds, was accurate within 1% of the true weight. Current research has shown that this concept can be applied to probabilistic outcomes, specifically sport outcomes.
 
-## Similiar Project
-The Wisdom of the Crowds predictive ability has been studied by organization and governments. For example the good judgment project was started in repsonse to the CIA looking for better ways to predict geopolitical outcomes. The poor intelligence of Weapons of Mass Destruction in Iraq and the subsequet invasion led the CIA to ask what went wrong in intelligence gathering and predictive prower. Good Judgment had the dea
-https://www.fastcompany.com/3028840/the-surprising-accuracy-of-crowdsourced-predictions-about-the-future
+## The Whistles Go Woo Project Description
+Our goal was to provide people a platform to harness the wisdom of the crowd to predict sport outcomes. The user would come to our site and make their predictions 
 
-The Wisdom of the Crowds - James Surowiecki
-Superforecasting - Philip E. Tetlock, Dan Gardner- Alittle bit different but still claims that 
-Similiar to Metaculus and Good Judgment
-Good Judgment Inc harnesses the wisdom of the crowd, led by Superforecasters, to quantify hard-to-measure risks for smarter strategic decisions for the private and public sectors.
-Metaculus is a forecasting technology platform that optimally aggregates quantitative predictions of future events.
+<p align="center"><img src = (https://github.com/djbrown227/Daniel_Portfolio/blob/main/TheWhistlesGoWoo/TWGW%20Images/TWGW%20Golf%20Results.png) width = 700><p>
+
+
+
+
+
+
+
+## Similiar Projects
+The Wisdom of the Crowds predictive ability has been studied by academics, organizations and governments. 
+1. [Good Judgment Inc.](https://goodjudgment.com/))
+2. [Metaculus](https://www.metaculus.com/questions/?show-welcome=true)
+3. [The Wisdom of the Crowds-James Surowiecki](https://en.wikipedia.org/wiki/The_Wisdom_of_Crowds)
+4. [Superforecasting-Philip E. Tetlock and Dan Gardner](https://en.wikipedia.org/wiki/Superforecasting:_The_Art_and_Science_of_Prediction)
+
+The Good Judgment Inc harnesses the wisdom of the crowd, led by Superforecasters, to quantify hard-to-measure risks for smarter strategic decisions for the private and public sectors. Metaculus is a forecasting technology platform that optimally aggregates quantitative predictions of future events.
 
 ## Maybe use for above
 Harnessing the Wisdom of the Crowd to Predict Sport Outcomes

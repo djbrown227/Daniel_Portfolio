@@ -5,7 +5,7 @@ The intersection between sports, gambling and analytics has grown exponentially 
 
 ## Project Overview
 Over the last few months I have created a profitable NBA DFS model that earns 1.5% ROI daily on DraftKings. I created an A-Z gambling model, that encompasses every element of the DFS process. This enables me to accurately and efficiently enter NBA DFS competitions, while allowing time to adjust to last minute injuries and NBA news. The model I built includes:
-1. [Exploratory Data Analysis](https://github.com/djbrown227/Daniel_Portfolio/tree/main/Python%20Programming%20Projects/NBA%20Daily%20Fantasy%20Sports)
+1. [Exploratory Data Analysis](https://github.com/djbrown227/Daniel_Portfolio/tree/main/Python%20Programming%20Projects/NBA%20Daily%20Fantasy%20Sports/Exploratory%20Data%20Analysis)
 2. [Player Projections](https://github.com/djbrown227/Daniel_Portfolio/tree/main/Python%20Programming%20Projects/NBA%20Daily%20Fantasy%20Sports/Player%20Projections)
 3. [Lineup Optimization](https://github.com/djbrown227/Daniel_Portfolio/tree/main/Python%20Programming%20Projects/NBA%20Daily%20Fantasy%20Sports/Lineup%20Optimizer)
 

@@ -1,7 +1,7 @@
 # NBA Daily Fantasy Sports(DFS) Model
 
 ## Introduction
-The intersection between sports, gambling and analytics has grown exponentially over the past decade. Creating my own NBA DFS gambling model in Python has given my a view into this world and great learning experience. It has also been a realization that there is alot to learn in data science, and one major portion of understanding is domain knoweledge. I hope to continue to improve and develop my model to gain greater insight into basketball and NBA DFS, while also improving my data science techniques.  
+The intersection between sports, gambling and analytics has grown exponentially over the past decade. Creating my own NBA DFS gambling model in Python has given my a view into this world and has been a great learning experience. It has also been a realization that there is alot to learn in data science, and one major portion of understanding is domain knoweledge. I hope to continue to improve and develop my model to gain greater insight into basketball and NBA DFS, while also improving my data science techniques.  
 
 ## Project Overview
 Over the last few months I have created a profitable NBA DFS model that earns 1.5% ROI daily on DraftKings. I created an A-Z gambling model, that encompasses every element of the DFS process. This enables me to accurately and efficiently enter NBA DFS competitions, while allowing time to adjust to last minute injuries and NBA news. The model I built includes:

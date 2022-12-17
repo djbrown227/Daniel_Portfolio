@@ -6,7 +6,7 @@ In the Exploratory Data Analysis(EDA) of the NBA Data I explore player and team 
 ## DFS Player Analysis
 
 ### Process
-After importing data from Stathead.com, I calculated DFS points for each player for each game of the season. I used univariate, bivariate and multivariate analysis tools to achieve this. My intended goal is to get a feel for the data and find features in the standard box score data that may have predictive power for DFS points for future games.
+After importing data from Stathead.com, I calculated DFS points for each player for each game of the season. I used univariate, bivariate and multivariate analysis tools to achieve this. My intended goal is to get a feel for the data and find features in the standard box score data that may have predictive power for DFS points for future games. I included my EDA for players in the [Player Projections](https://github.com/djbrown227/Daniel_Portfolio/tree/main/Python%20Programming%20Projects/NBA%20Daily%20Fantasy%20Sports/Player%20Projections)
 ### Findings
 
 ## DFS Team Analysis

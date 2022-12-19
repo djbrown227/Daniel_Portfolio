@@ -12,7 +12,7 @@ This repository holds all of my personal projects. Currently they're separated i
 5. [SQL Projects](https://github.com/djbrown227/Daniel_Portfolio/tree/main/SQL%20Projects)
 6. [Public Tableau Visualizations](https://github.com/djbrown227/Daniel_Portfolio/tree/main/Public%20Tableau%20Visualizations)
 7. [PowerBI Projects](https://github.com/djbrown227/Daniel_Portfolio/tree/main/PowerBI%20Projects)
-8. Gradys Cold Brew Shipping Department Cost Saving
+8. [Gradys Cold Brew Shipping Department Cost Saving](https://github.com/djbrown227/Daniel_Portfolio/tree/main/Grady's%20Cold%20Brew)
 9. A/B Testing
 
 Each category has their own variety of projects and accompanied documentation and overviews.
@@ -21,9 +21,11 @@ Each category has their own variety of projects and accompanied documentation an
 
 Hello! 
 
-My name is Daniel Brown and welcome to my Project Portfolio! I will tell you about myself briefly. I did my undergraduate degree at The City College of New York where I majored in Applied Mathematics with an emphasis on Financial Mathermatics. I am currently enrolled in the Maters of Data Science program with the University of Colorado at Boulder(online). Diving deep into the field of Data Science in the past year has led me to a newfound interest into where data analytics, sports performance and gambling meet. Over the past year I started a gambling adjacent company called TWGW LLC as an aide to sports gamblers. Also, I have created a working and profitable Ddaily Fantasy Sports model for NBA basketball. 
+My name is Daniel Brown and welcome to my Project Portfolio! I will tell you about myself briefly. I earned my undergraduate degree from The City College of New York where I majored in Applied Mathematics with an emphasis in Financial Mathermatics. I am currently enrolled in the Maters of Data Science program with the University of Colorado at Boulder(online). 
+
+Diving deeper into the field of Data Science over the past year has led me to a newfound interest into where data analytics, sports performance and gambling meet. Over the past year I started a gambling company called TWGW LLC that offered aide to sports gamblers decision making. Also, I have created a working and profitable Daily Fantasy Sports model for NBA basketball. 
  
-I would my next foray into this data analytcs to be within a defined role in an organization I believe in. I hope to add my creativity and passion to the organization while also gaining experience into how large successful organizations apply data analytics to solve problems.
+I would like my next foray into the field of data analytcs to be within a defined role in an organization I believe in. I hope to add my creativity and passion to the role while also gaining experience into how large successful organizations apply data analytics to solve problems.
 
 ### Contact Me
 

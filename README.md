@@ -6,14 +6,16 @@ This repository holds all of my personal projects. Currently they're separated i
 
 1. [TheWhistlesGoWooo Gambling Website - Website Link](https://thewhistlesgowooo.com/)
     - [TheWhistlesGoWooo - Project Overview](https://github.com/djbrown227/Daniel_Portfolio/blob/main/TheWhistlesGoWoo/README.md)
-3. [MIT Sports Analytics Hackathon Project - Open Division Finalist](https://github.com/djbrown227/Daniel_Portfolio/tree/main/MIT%20Sports%20Analytics%20Hackathon%202022)
-4. [Python Programming Projects](https://github.com/djbrown227/Daniel_Portfolio/tree/main/Python%20Programming%20Projects)
+2. [MIT Sports Analytics Hackathon Project - Open Division Finalist](https://github.com/djbrown227/Daniel_Portfolio/tree/main/MIT%20Sports%20Analytics%20Hackathon%202022)
+3. [Python Programming Projects](https://github.com/djbrown227/Daniel_Portfolio/tree/main/Python%20Programming%20Projects)
     - [NBA Daily Fantasy Sports Model](https://github.com/djbrown227/Daniel_Portfolio/tree/main/Python%20Programming%20Projects/NBA%20Daily%20Fantasy%20Sports)
-5. [SQL Projects](https://github.com/djbrown227/Daniel_Portfolio/tree/main/SQL%20Projects)
-6. [Public Tableau Visualizations](https://github.com/djbrown227/Daniel_Portfolio/tree/main/Public%20Tableau%20Visualizations)
-7. [PowerBI Projects](https://github.com/djbrown227/Daniel_Portfolio/tree/main/PowerBI%20Projects)
-8. [Gradys Cold Brew Shipping Department Cost Saving](https://github.com/djbrown227/Daniel_Portfolio/tree/main/Grady's%20Cold%20Brew)
-9. A/B Testing
+4. [Multiple Linear Regression](https://github.com/djbrown227/Daniel_Portfolio/tree/main/Multiple%20Linear%20Regression)
+5. [Logistic Regression](https://github.com/djbrown227/Daniel_Portfolio/tree/main/Logistic%20Regression) 
+6. [SQL Projects](https://github.com/djbrown227/Daniel_Portfolio/tree/main/SQL%20Projects)
+7. [Public Tableau Visualizations](https://github.com/djbrown227/Daniel_Portfolio/tree/main/Public%20Tableau%20Visualizations)
+8. [PowerBI Projects](https://github.com/djbrown227/Daniel_Portfolio/tree/main/PowerBI%20Projects)
+9. [Gradys Cold Brew Shipping Department Cost Saving](https://github.com/djbrown227/Daniel_Portfolio/tree/main/Grady's%20Cold%20Brew)
+10. A/B Testing
 
 Each category has their own variety of projects and accompanied documentation and overviews.
 

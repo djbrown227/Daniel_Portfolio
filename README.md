@@ -12,10 +12,11 @@ This repository holds all of my personal projects. Currently they're separated i
 4. [Multiple Linear Regression](https://github.com/djbrown227/Daniel_Portfolio/tree/main/Multiple%20Linear%20Regression)
 5. [Logistic Regression](https://github.com/djbrown227/Daniel_Portfolio/tree/main/Logistic%20Regression) 
 6. [SQL Projects](https://github.com/djbrown227/Daniel_Portfolio/tree/main/SQL%20Projects)
-7. [Public Tableau Visualizations](https://github.com/djbrown227/Daniel_Portfolio/tree/main/Public%20Tableau%20Visualizations)
-8. [PowerBI Projects](https://github.com/djbrown227/Daniel_Portfolio/tree/main/PowerBI%20Projects)
-9. [Gradys Cold Brew Shipping Department Cost Saving](https://github.com/djbrown227/Daniel_Portfolio/tree/main/Grady's%20Cold%20Brew)
-10. [A/B Testing](https://github.com/djbrown227/Daniel_Portfolio/tree/main/AB%20Testing)
+7. [Clustering and Customer Segmentation](https://github.com/djbrown227/Daniel_Portfolio/tree/main/Clustering)
+8. [Public Tableau Visualizations](https://github.com/djbrown227/Daniel_Portfolio/tree/main/Public%20Tableau%20Visualizations)
+9. [PowerBI Projects](https://github.com/djbrown227/Daniel_Portfolio/tree/main/PowerBI%20Projects)
+10. [Gradys Cold Brew Shipping Department Cost Saving](https://github.com/djbrown227/Daniel_Portfolio/tree/main/Grady's%20Cold%20Brew)
+11. [A/B Testing](https://github.com/djbrown227/Daniel_Portfolio/tree/main/AB%20Testing)
 
 Each category has their own variety of projects and accompanied documentation and overviews.
 

@@ -9,32 +9,31 @@ season.
 
 ## Preview
 ### Below are some of the nested subqueries I performed in order to extract data from the tables. These queries extract the first and
-second best point performance for players.
+### second best point performance for players.
 
---Players top PTS performance for the season
-SELECT Player, Team, PTS
-FROM (
-  SELECT Player, Team, PTS,
-  RANK() OVER (PARTITION BY Team ORDER BY PTS DESC) as ranking
-  FROM [NBA].[dbo].[player_season_stats]
+#### Players top PTS performance for the season<br>
+SELECT Player, Team, PTS, <br>
+FROM (<br>
+  SELECT Player, Team, PTS,<br>
+  RANK() OVER (PARTITION BY Team ORDER BY PTS DESC) as ranking<br>
+  FROM [NBA].[dbo].[player_season_stats]<br>
 ) p
 WHERE ranking = 1;
 
---Players second best performance for the season
-SELECT Player, Team, PTS
-FROM (
-  SELECT Player, Team, PTS,
-  RANK() OVER (PARTITION BY Team ORDER BY PTS DESC) as ranking
-  FROM [NBA].[dbo].[player_season_stats]
-) p
+#### Players second best performance for the season<br>
+SELECT Player, Team, PTS<br>
+FROM (<br>
+  SELECT Player, Team, PTS,<br>
+  RANK() OVER (PARTITION BY Team ORDER BY PTS DESC) as ranking<br>
+  FROM [NBA].[dbo].[player_season_stats]<br>
+) p<br>
 WHERE ranking = 2;
 
-### This query selected players who have scored more away than at home
+### This query selected players who have scored more away than at home<br>
 
---Players who scored more total points in away games
-SELECT Player, SUM(PTS) as total_points, SUM(CASE WHEN [Unnamed: 7] = 'Home' THEN PTS ELSE 0 END) as home_points, SUM(CASE WHEN [Unnamed: 7] = '@' THEN PTS ELSE 0 END) as away_points
-FROM [dbo].[NBA Data 2022]
-GROUP BY Player
-HAVING SUM(CASE WHEN [Unnamed: 7] = '@' THEN PTS ELSE 0 END) > SUM(CASE WHEN [Unnamed: 7] = 'Home' THEN PTS ELSE 0 END)
+SELECT Player, SUM(PTS) as total_points, SUM(CASE WHEN [Unnamed: 7] = 'Home' THEN PTS ELSE 0 END) as home_points, SUM(CASE WHEN [Unnamed: 7] = '@' THEN PTS ELSE 0 END) as away_points<br>
+FROM [dbo].[NBA Data 2022]<br>
+GROUP BY Player<br>
+HAVING SUM(CASE WHEN [Unnamed: 7] = '@' THEN PTS ELSE 0 END) > SUM(CASE WHEN [Unnamed: 7] = 'Home' THEN PTS ELSE 0 END)<br>
 ORDER BY total_points DESC;
 

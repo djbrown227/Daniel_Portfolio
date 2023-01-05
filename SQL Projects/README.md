@@ -1,15 +1,12 @@
 ## Intro
 I utilize Microsoft SQL Server to store data for many of my projects. Microsoft SQL Server enables me to easily organize my data and also allows me to perform simple
-Exploratory Data Analysis before importing the data into Python. In the project below I utilized Microsoft SQL Server to explore NBA 2022-2023 several different data
-sources. The tables had player game by game data and season total data, which enabled me to explore both the big picture and small picture data of the current NBA 
-season.
+Exploratory Data Analysis before importing the data into Python. In the project below I utilized Microsoft SQL Server to explore NBA 2022-2023 from several different data sources. The tables have player game by game data and season total data, which enables me to explore both the big picture and small picture data of the current NBA season.
 
 ## Project
 1. [Microsoft SQL Server - NBA DATA](https://github.com/djbrown227/Daniel_Portfolio/tree/main/SQL%20Projects/SQL%20Project)
 
 ## Preview
-### Below are some of the nested subqueries I performed in order to extract data from the tables. These queries extract the first and
-### second best point performance for players.
+### Below are some of the nested subqueries I performed in order to extract data from the tables. These queries extract the first and second best point performance for players.
 
 #### Players top PTS performance for the season<br>
 SELECT Player, Team, PTS, <br>

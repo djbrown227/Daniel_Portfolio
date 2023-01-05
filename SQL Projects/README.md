@@ -1,6 +1,6 @@
 ## Intro
-I utiliz Microsoft SQL Server to store data for many of my projects. Microsoft SQL Server enables me to easily organize my data and also allows me to perform simple
-Exploratory Data Analysis before importing the data into Python. In the Project Below I utilized Microsoft SQL Server to explore NBA 2022-2023 several different data
+I utilize Microsoft SQL Server to store data for many of my projects. Microsoft SQL Server enables me to easily organize my data and also allows me to perform simple
+Exploratory Data Analysis before importing the data into Python. In the project below I utilized Microsoft SQL Server to explore NBA 2022-2023 several different data
 sources. The tables had player game by game data and season total data, which enabled me to explore both the big picture and small picture data of the current NBA 
 season.
 
